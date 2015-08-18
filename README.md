@@ -1,6 +1,10 @@
-Introduction to Programming Using Java, Seventh Edition Version 7.0, August 2014 - Solution for Programming Exercise 7.8, author David Eck (eck@hws.edu) - Gomoku.java --- Original website: http://math.hws.edu/eck/cs124/javanotes7/c7/ex8-ans.html
+Introduction to Programming Using Java, Seventh Edition Version 7.0, August 2014 - Solution for Programming Exercise 7.8, author David Eck (eck@hws.edu) - Gomoku.java --- 
 
-Introduction to Programming Using Java Version 3.1, February 2001 - Solution for Programming Exercise 8.6 (older version), author David Eck (eck@hws.edu) - GomokuOld.java --- Original website: http://math.hws.edu/eck/cs124/javanotes3/c8/ex-8-6-answer.html
+Original website: http://math.hws.edu/eck/cs124/javanotes7/c7/ex8-ans.html
+
+Introduction to Programming Using Java Version 3.1, February 2001 - Solution for Programming Exercise 8.6 (older version), author David Eck (eck@hws.edu) - GomokuOld.java --- 
+
+Original website: http://math.hws.edu/eck/cs124/javanotes3/c8/ex-8-6-answer.html
 
  [ Exercises | Chapter Index | Main Index ]
 Solution for Programming Exercise 7.8
